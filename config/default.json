@@ -1,1 +1,4 @@
-{"mongoURI":"mongodb+srv://Jont:Jonttg12@deved.8jofm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"}
+{
+    "mongoURI":"mongodb+srv://Jont:Jonttg12@deved.8jofm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
